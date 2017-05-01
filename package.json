@@ -1,0 +1,8 @@
+{
+  "name": "js project",
+  "version": "0.8.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}

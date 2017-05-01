@@ -1,0 +1,57 @@
+
+.tooltip_templates { 
+	display: none;
+	}
+#tooltip_content {
+	float:right;
+	width: 300px;
+}
+.vticker ul li{
+	list-style:none;
+	background-color:#fff;
+	display:inline-block;
+	clear:both;
+	width: auto;
+}
+
+#funFact{
+	color:red;
+	font-weight:bolder;
+}
+
+#tickerButtons button{
+	
+	border: none;
+    color: #fff;
+    padding: 10px 67.85px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	background-color:#333;
+}
+
+.vticker{
+	border: 3px solid gray;
+	list-style: none;
+	margin:15px 0px 15px 0px;
+	
+}
+.vticker ul{
+	padding: 10px;
+	background-color:#fff;
+	
+}
+.vticker img{
+padding-bottom:20px;
+}
+.planetList p{
+	color:#000;
+	display:inline-block;
+	float:right;
+	width:650px;
+	padding:20px;
+}
+.et-run{
+	background: red;
+}
